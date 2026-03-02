@@ -3,9 +3,9 @@
 # Lina Hamadache
 
 **4th-year Software Engineering student at the Higher School of Computer Science (ESI Algiers)**
-passionate about web development and cybersecurity — CTF player with **Hexara** 🔐
+passionate aboutsoftware development and cybersecurity — CTF player with **Hexara** 
 
-⭐ *Follow for more updates!*
+ *Follow for more updates!*
 
 <br>
 
@@ -104,6 +104,5 @@ Technical Member & HR Manager @ **Shellmates Club** — ESI's cybersecurity club
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=LINA-LY&icon=6&color=9&label=Profile+Views)
 
 </div>
