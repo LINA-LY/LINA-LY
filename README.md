@@ -19,9 +19,17 @@ passionate about web development and cybersecurity — CTF player with **Hexara*
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/ml__hamadache@esi.dz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ml_hamadache@esi.dz)
-[![LinkedIn](https://img.shields.io/badge/lina--hamadache-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-hamadache-5525b424a)
-[![Discord](https://img.shields.io/badge/liyna__hm-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/liyna__hm)
+<a href="mailto:ml_hamadache@esi.dz">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lina-hamadache-5525b424a">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/liyna__hm">
+  <img src="https://img.icons8.com/color/48/discord-logo.png" width="40" alt="Discord"/>
+</a>
 
 </div>
 
@@ -89,16 +97,6 @@ Technical Member & HR Manager @ **Shellmates Club** — ESI's cybersecurity club
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LINA-LY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LINA-LY&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=LINA-LY&theme=darkhub&no-frame=true&column=7&margin-w=5)
 
 </div>
 
